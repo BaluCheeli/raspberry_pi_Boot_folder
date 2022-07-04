@@ -1,0 +1,2 @@
+cutiepi-panel-overlay.o: \
+ arch/arm/boot/dts/overlays/cutiepi-panel-overlay.dts

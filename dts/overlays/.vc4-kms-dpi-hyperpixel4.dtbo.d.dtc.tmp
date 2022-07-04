@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/vc4-kms-dpi-hyperpixel4.dtbo: arch/arm/boot/dts/overlays/.vc4-kms-dpi-hyperpixel4.dtbo.dts.tmp

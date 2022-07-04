@@ -1,0 +1,2 @@
+imx258-overlay.o: arch/arm/boot/dts/overlays/imx258-overlay.dts \
+ scripts/dtc/include-prefixes/dt-bindings/gpio/gpio.h

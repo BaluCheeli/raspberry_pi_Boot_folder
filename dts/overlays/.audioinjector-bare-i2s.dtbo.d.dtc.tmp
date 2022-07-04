@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/audioinjector-bare-i2s.dtbo: arch/arm/boot/dts/overlays/.audioinjector-bare-i2s.dtbo.dts.tmp

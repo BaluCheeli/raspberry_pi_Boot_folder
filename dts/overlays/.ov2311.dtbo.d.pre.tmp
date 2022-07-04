@@ -1,0 +1,2 @@
+ov2311-overlay.o: arch/arm/boot/dts/overlays/ov2311-overlay.dts \
+ scripts/dtc/include-prefixes/dt-bindings/gpio/gpio.h

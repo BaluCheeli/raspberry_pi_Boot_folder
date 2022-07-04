@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/vl805.dtbo: arch/arm/boot/dts/overlays/.vl805.dtbo.dts.tmp

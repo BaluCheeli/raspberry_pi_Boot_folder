@@ -1,0 +1,1 @@
+arch/arm/boot/dts/overlays/i2c-fan.dtbo: arch/arm/boot/dts/overlays/.i2c-fan.dtbo.dts.tmp
